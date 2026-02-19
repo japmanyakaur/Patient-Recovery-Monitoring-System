@@ -73,7 +73,10 @@ The system automatically identifies abnormal recovery behavior and flags potenti
 - Vital sign trend graphs  
 - Activity recovery curve  
 - Anomaly detection timeline  
-- Risk alerts for early intervention  
+- Risk alerts for early intervention
+  <img width="1022" height="484" alt="image" src="https://github.com/user-attachments/assets/d566f53d-0cbf-47cd-8a12-215b8d522321" />
+  <img width="1015" height="471" alt="image" src="https://github.com/user-attachments/assets/282db407-a77d-4bdd-9266-2903e4688a31" />
+
 
 ---
 
