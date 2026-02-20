@@ -55,8 +55,8 @@ The system automatically identifies abnormal recovery behavior and flags potenti
 - Physiological variability metrics  
 
 ###  Anomaly Detection
-- Isolation Forest (unsupervised machine learning)  
-- 5% contamination assumption for rare abnormal patterns  
+- Using Isolation Forest (Unsupervised ML,best suited for anomaly detection)  
+- Considers 5% contamination assumption for rare abnormal patterns  
 - Binary risk labeling:
   - `0` → Normal  
   - `1` → Risk  
